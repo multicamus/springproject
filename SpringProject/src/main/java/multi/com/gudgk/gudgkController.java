@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 public class gudgkController {
 	@RequestMapping(value="/1",method=RequestMethod.GET)
 	public String home() {
+		System.out.println("test");
 		return "home";
 	}
 	
