@@ -22,8 +22,8 @@
 	            <div class="col-xl-7 col-lg-6">
 	                <div class="hero-img">
 	                    <div class="d-inline-block hero-img-right">
-	                        <img src="/pet/resources/assets/images/dogwalk.gif" alt="" class="image wow fadeInRight" data-wow-delay=".5s">
-	                        <img src="/pet/resources/assets/img/hero/dots.shape.svg" alt="" class="dot-shape">
+	                        <img src="/springproject/resources/assets/images/dogwalk.gif" alt="" class="image wow fadeInRight" data-wow-delay=".5s">
+	                        <img src="/springproject/resources/assets/img/hero/dots.shape.svg" alt="" class="dot-shape">
 	                        <div class="video-btn">
 	                            <a href="https://www.youtube.com/watch?v=wDfqXR_5yyQ" target="_blank" class="glightbox"><i class="lni lni-play"></i></a>
 	                        </div>
@@ -76,7 +76,7 @@
 	        <div class="client-logo-wrapper">
 	            <div class="client-logo-carousel d-flex align-items-center justify-content-between">
 	                <div class="client-logo">
-	                    <img src="/pet/resources/assets/images/5.jpg" alt="" style="padding-bottom: 20px;">
+	                    <img src="/springproject/resources/assets/images/5.jpg" alt="" style="padding-bottom: 20px;">
 	                    <div class="box-content-style feature-content">
 	                        <h4>손*민 훈련사</h4>
 	                        <p>후기 00개, 단골 00명</p><br/>
@@ -91,7 +91,7 @@
 	                    </div>
 	                </div>
 	                <div class="client-logo">
-                      	<img src="/pet/resources/assets/images/4.png" alt="" style="padding-bottom: 20px;">
+                      	<img src="/springproject/resources/assets/images/4.png" alt="" style="padding-bottom: 20px;">
 	                    <div class="box-content-style feature-content">
 	                        <h4>손*민 훈련사</h4>
 	                        <p>후기 00개, 단골 00명</p><br/>
@@ -106,7 +106,7 @@
 	                    </div>
 	                </div>
 	                <div class="client-logo">
-                     	<img src="/pet/resources/assets/images/3.gif" alt="" style="padding-bottom: 20px;">
+                     	<img src="/springproject/resources/assets/images/3.gif" alt="" style="padding-bottom: 20px;">
 	                    <div class="box-content-style feature-content">
 	                        <h4>손*민 훈련사</h4>
 	                        <p>후기 00개, 단골 00명</p><br/>
@@ -121,7 +121,7 @@
 	                    </div>
 	                </div>
 	                <div class="client-logo">
-                      	<img src="/pet/resources/assets/images/2.jpg" alt="" style="padding-bottom: 20px;">
+                      	<img src="/springproject/resources/assets/images/2.jpg" alt="" style="padding-bottom: 20px;">
 	                    <div class="box-content-style feature-content">
 	                        <h4>손*민 훈련사</h4>
 	                        <p>후기 00개, 단골 00명</p><br/>
@@ -136,7 +136,7 @@
 	                    </div>
 	                </div>
 	                <div class="client-logo">
-                      	<img src="/pet/resources/assets/images/1.jpg" alt="" style="padding-bottom: 20px;">
+                      	<img src="/springproject/resources/assets/images/1.jpg" alt="" style="padding-bottom: 20px;">
 	                    <div class="box-content-style feature-content">
 	                        <h4>손*민 훈련사</h4>
 	                        <p>후기 00개, 단골 00명</p><br/>
@@ -164,7 +164,7 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="about-img-wrapper">
                         <div class="about-img position-relative d-inline-block wow fadeInLeft" data-wow-delay=".3s">
-                            <img src="/pet/resources/assets/img/about/about-img.png" alt="">
+                            <img src="/springproject/resources/assets/img/about/about-img.png" alt="">
                             <div class="about-experience">
                                 <h3>언제든지 펫시터를<br/>부르세요</h3>
                                 <p>요청하신 날짜와 시간에 방문이 가능한 펫시터가 고객님의 예약을 수락하면 예약이 확정됩니다.</p>
@@ -198,7 +198,7 @@
                                        <li>배변 정리</li>
                                        <li>맞춤 배식</li>
                                    </ul><br/><br/>
-                                   <a href="/pet/menu/service/care.do" class="theme-btn">자세히 보기</a>
+                                   <a href="/springproject/menu/service/care.do" class="theme-btn">자세히 보기</a>
                                </div>
                            </div>
                            <div class="col-xl-22 col-lg-2 col-md-6 text-center">
@@ -213,7 +213,7 @@
                                        	<p>60분 이상 예약시 가능</p>
                                        </li>
                                    </ul><br/><br/>
-                                   <a href="/pet/menu/service/walk.do" class="theme-btn">자세히 보기</a>
+                                   <a href="/springproject/menu/service/walk.do" class="theme-btn">자세히 보기</a>
                                </div>
                            </div>
                        </div>
@@ -290,7 +290,7 @@
 <!-- ========================= service-section end ========================= -->
 
 <!-- ========================= contact-section start ========================= -->
-<section id="contact" class="contact-section cta-bg img-bg pt-110 pb-100" style="background-image: url('/pet/resources/assets/img/about/about-img.png');">
+<section id="contact" class="contact-section cta-bg img-bg pt-110 pb-100" style="background-image: url('/springproject/resources/assets/img/about/about-img.png');">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xl-5 col-lg-7">
@@ -315,14 +315,14 @@
             <i class="lni lni-arrow-up"></i>
         </a>
    		<!-- ========================= JS here ========================= -->
-		<script src="/pet/resources/assets/js/bootstrap.bundle-5.0.0-beta1.min.js"></script>
-		<script src="/pet/resources/assets/js/contact-form.js"></script>
-        <script src="/pet/resources/assets/js/count-up.min.js"></script>
-        <script src="/pet/resources/assets/js/tiny-slider.js"></script>
-        <script src="/pet/resources/assets/js/isotope.min.js"></script>
-        <script src="/pet/resources/assets/js/glightbox.min.js"></script>
-        <script src="/pet/resources/assets/js/wow.min.js"></script>
-        <script src="/pet/resources/assets/js/imagesloaded.min.js"></script>
-		<script src="/pet/resources/assets/js/main.js"></script>
+		<script src="/springproject/resources/assets/js/bootstrap.bundle-5.0.0-beta1.min.js"></script>
+		<script src="/springproject/resources/assets/js/contact-form.js"></script>
+        <script src="/springproject/resources/assets/js/count-up.min.js"></script>
+        <script src="/springproject/resources/assets/js/tiny-slider.js"></script>
+        <script src="/springproject/resources/assets/js/isotope.min.js"></script>
+        <script src="/springproject/resources/assets/js/glightbox.min.js"></script>
+        <script src="/springproject/resources/assets/js/wow.min.js"></script>
+        <script src="/springproject/resources/assets/js/imagesloaded.min.js"></script>
+		<script src="/springproject/resources/assets/js/main.js"></script>
     </body>
 </html>
