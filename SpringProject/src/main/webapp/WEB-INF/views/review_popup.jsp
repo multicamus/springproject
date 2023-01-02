@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <title>review popup</title>
     <!-- ========================= CSS here ========================= -->
-	<link rel="stylesheet" href="/pet/resources/assets/css/bootstrap-5.0.0-beta1.min.css">
+	<link rel="stylesheet" href="/SpringProject/resources/assets/css/bootstrap-5.0.0-beta1.min.css">
 	<link rel="stylesheet" href="/pet/resources/assets/css/LineIcons.2.0.css">
 	<link rel="stylesheet" href="/pet/resources/assets/css/animate.css">
 	<link rel="stylesheet" href="/pet/resources/assets/css/tiny-slider.css">
