@@ -1,14 +1,39 @@
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
-<%@ page session="false" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ taglib prefix="tiles" uri="http://tiles.apache.org/tags-tiles" %>
+<!DOCTYPE html>
 <html>
 <head>
-	<title>Home</title>
+<meta charset="UTF-8">
+<title>home</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
-
-<P>  The time on the server is ${serverTime}. </P>
+    <div class="preloader">
+        <div class="loader">
+            <div class="spinner">
+                <div class="spinner-container">
+                    <div class="spinner-rotator">
+                        <div class="spinner-left">
+                            <div class="spinner-circle"></div>
+                        </div>
+                        <div class="spinner-right">
+                            <div class="spinner-circle"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+	<div>
+		<tiles:insertAttribute name="top" />
+	</div>
+	
+	<div>
+		<tiles:insertAttribute name="content" />
+ 	</div>
+ 	
+ 	<div>
+ 		<tiles:insertAttribute name="footer" />	
+ 	</div>
 </body>
 </html>
